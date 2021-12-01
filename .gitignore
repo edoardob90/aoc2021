@@ -1,0 +1,5 @@
+*.x
+.vscode
+*.code-workspace
+ascii_progress.py
+.cookie
