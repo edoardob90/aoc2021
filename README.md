@@ -1,6 +1,10 @@
-# Advent of Code 2021 👨‍💻🎄🎅
+# Advent of Code 2021 💻🎄🎅
 
-The [Advent of Code](https://adventofcode.com) is a coding challenge from December 1st until Christmas created by [Eric Wastl](http://was.tl/). The first puzzles will unlock as usual at Midnight (UTC-5) on December the 1st.
+The [Advent of Code](https://adventofcode.com) is a coding challenge from December 1st until Christmas created by [Eric Wastl](http://was.tl/). The puzzles will unlock as usual at Midnight (UTC-5) on each day from the 1st to the 25th of December.
+
+Each folder corresponds to a day of the calendar and, in each folder, the `README.md` contains the first part of the day's puzzle. To unlock the second part, you must submit the correct solution that you obtained with your input.
+
+As the inputs are different for each user, use the `input.txt` files in each day's folder only if you want to test a different solution against my inputs.
 
 ## Languages used
 
@@ -19,4 +23,10 @@ To run Python solutions any 3.x version should work fine, otherwise I will speci
 
 ## Progress
 
-I'll be publishing my daily progress – with some comments on my solution (if I found it) and what I learned – on Hashnode. Follow me there!
+I'll be publishing my daily progress – with some comments on my solution (if I found it) and what I learned – on [Hashnode](https://hashnode.com). Follow me there!
+
+For reference, here's a list/table with the links to my blog entries where I talked about each day's problem:
+
+Day | Blog post
+--- | ---
+Wed, 1: [Sonar Sweep](https://adventofcode.com/2021/day/1) | `link coming soon!`
