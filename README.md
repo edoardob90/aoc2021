@@ -30,3 +30,4 @@ For reference, here's a list/table with the links to my blog entries where I tal
 Day | Blog post
 --- | ---
 Wed, 1: [Sonar Sweep](https://adventofcode.com/2021/day/1) | `link coming soon!`
+Thu, 2: [Dive!](https://adventofcode.com/2021/day/2) | `link coming soon!`
