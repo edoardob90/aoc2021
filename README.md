@@ -23,11 +23,14 @@ To run Python solutions any 3.x version should work fine, otherwise I will speci
 
 ## Progress
 
-I'll be publishing my daily progress – with some comments on my solution (if I found it) and what I learned – on [Hashnode](https://hashnode.com). Follow me there!
+I'll be publishing my daily progress – with some comments on my solution (if I found it) and what I learned – on Hashnode. [ Follow me ](https://hashnode.com/@edobld) there!
 
-For reference, here's a list/table with the links to my blog entries where I talked about each day's problem:
+For reference, here's an up-to-date list with the links to my blog entries where I talked about each day's problem:
 
-Day | Blog post
---- | ---
-Wed, 1: [Sonar Sweep](https://adventofcode.com/2021/day/1) | `link coming soon!`
-Thu, 2: [Dive!](https://adventofcode.com/2021/day/2) | `link coming soon!`
+1. [Sonar sweep](https://blog.edobld.me/day-1-sonar-sweep) ([puzzle text](https://adventofcode.com/2021/day/1)) ✅
+2. [Dive!]() ([puzzle text](https://adventofcode.com/2021/day/2)) ✅
+3. [Binary Diagnostic]() ([puzzle text](https://adventofcode.com/2021/day/3)) ✅
+4. [Giant Squid]() ([puzzle text](https://adventofcode.com/2021/day/4))
+5. [Hydrothermal Venture]() ([puzzle text](https://adventofcode.com/2021/day/5))
+6. [Lanternfish]() ([puzzle text](https://adventofcode.com/2021/day/6))
+7. [The Treachery of Whales]() ([puzzle text](https://adventofcode.com/2021/day/7))

@@ -7,12 +7,9 @@ def moving_map(func, data, size=1):
     assert size > 0 and size < len(data), "Invalid window size"
     M = len(data) - size - 1
     new_data = [data[i:i - M] for i in range(M)] + [data[M:]]
-    assert len(new_data) == M + 1
-    return list(map(func, zip(*new_data)))
+    return list(map(func, new_data))
 
-def subtract(data):
-    assert len(data) == 2
-    return data[-1] - data[0]
+subtract = lambda x: x[-1] - x[0]
 
 # Part 1
 print("Part 1")
