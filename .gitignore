@@ -3,3 +3,4 @@
 *.code-workspace
 ascii_progress.py
 .cookie
+test*
