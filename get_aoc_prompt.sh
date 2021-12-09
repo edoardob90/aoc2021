@@ -32,12 +32,9 @@ awk '{
 }' > ${DEST}/README.md
 
 # get the input (if a .cookie file is present)
-# requires HTTPie
 if [[ -f "$DIR/.cookie" ]]; then
-    if ! type $(which https) 2>&1 >/dev/null; then
-        echo "httpie is not installed! Please go to https://httpie.io/docs#installation" >&2
+    if ! type $(which curl) 2>&1 >/dev/null; then
+        echo "curl not found!" >&2
         exit 1
-    else
-        https --body "adventofcode.com/${2:-2021}/day/$1/input" Cookie:session=$(cat "${DIR}/.cookie") > ${DEST}/input.txt
-    fi
+    curl "https://adventofcode.com/${2:-2021}/day/$1/input" --cookie "session=$(cat ${DIR}/.cookie)" > ${DEST}/input.txt
 fi
