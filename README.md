@@ -8,10 +8,6 @@ As the inputs are different for each user, use the `input.txt` files in each day
 
 ## Languages used
 
-> Go big or go home. Because it's true. What do you have to lose?
->
-> *Eliza Dushku*
-
 I will attempt to write a solution in **at least two** out of the three following languages:
 
 1. **Python** — because... well, it's 🐍
@@ -25,14 +21,18 @@ To run Python solutions any 3.x version should work fine, otherwise I will speci
 
 I'll be publishing my daily progress – with some comments on my solution (if I found it) and what I learned – on Hashnode. [ Follow me ](https://hashnode.com/@edobld) there!
 
-For reference, here's an up-to-date list with the links to my blog entries where I talked about each day's problem:
+For reference, here's an up-to-date list with the links to my blog entries where I talked about each day's problem (P = Python, WL = Wolfram Language)
 
-1. [Sonar sweep](https://blog.edobld.me/day-1-sonar-sweep) ([puzzle text](https://adventofcode.com/2021/day/1)) ⭐⭐
-2. Dive! ([puzzle text](https://adventofcode.com/2021/day/2)) ⭐⭐
-3. Binary Diagnostic ([puzzle text](https://adventofcode.com/2021/day/3)) ⭐⭐
-4. Giant Squid ([puzzle text](https://adventofcode.com/2021/day/4)) ⭐⭐
-5. Hydrothermal Venture ([puzzle text](https://adventofcode.com/2021/day/5)) ⭐⭐
-6. Lanternfish ([puzzle text](https://adventofcode.com/2021/day/6))
-7. The Treachery of Whales ([puzzle text](https://adventofcode.com/2021/day/7))
-8. Seven Segment Search ([puzzle text](https://adventofcode.com/2021/day/8))
-9. Smoke Basin ([puzzle text](https://adventofcode.com/2021/day/9))
+Solved | Problem | P | WL | C 
+--- | --- | --- | --- 
+:star: :star: | 1: [Sonar sweep](https://blog.edobld.me/day-1-sonar-sweep) ([puzzle text](https://adventofcode.com/2021/day/1)) | :heavy_check_mark: | :heavy_check_mark: |
+:star: :star: | 2: Dive! ([puzzle text](https://adventofcode.com/2021/day/2)) | :heavy_check_mark: | :heavy_check_mark: |
+:star: :star: | 3: Binary Diagnostic ([puzzle text](https://adventofcode.com/2021/day/3)) | :heavy_check_mark: | |
+:star: :star: | 4: Giant Squid ([puzzle text](https://adventofcode.com/2021/day/4)) | :heavy_check_mark: | | 
+:star: :star: | 5: Hydrothermal Venture ([puzzle text](https://adventofcode.com/2021/day/5)) | :heavy_check_mark: | | 
+.. | 6: Lanternfish ([puzzle text](https://adventofcode.com/2021/day/6)) | | | 
+.. | 7: The Treachery of Whales ([puzzle text](https://adventofcode.com/2021/day/7)) | | |
+.. | 8: Seven Segment Search ([puzzle text](https://adventofcode.com/2021/day/8)) | | | 
+.. | 9: Smoke Basin ([puzzle text](https://adventofcode.com/2021/day/9)) | | | 
+.. | 10: Syntax Scoring ([puzzle text](https://adventofcode.com/2021/day/10)) | | |
+.. | 11: Dumbo Octopus ([puzzle text](https://adventofcode.com/2021/day/11)) | | |
