@@ -1,12 +1,11 @@
 import fileinput
 
-points = []
 grid = [[0 for _ in range(1000)] for _ in range(1000)]
 
 for line in fileinput.input():
     (x_0, y_0), (x_1, y_1) = [[int(y) for y in x.split(',')]
                               for x in line.strip().split(' -> ')]
-    #print(x_0, y_0, x_1, y_1)
+
     if x_0 == x_1:  # vertical line
         if y_1 < y_0:
             y_0, y_1 = y_1, y_0
@@ -28,8 +27,6 @@ for line in fileinput.input():
         else:
           for idx in range(x_1 - x_0 + 1):
               grid[x_0 + idx][y_0 + idx] += 1
-
-#print(*list(zip(*grid)), sep="\n", end="\n")
 
 unroll = []
 for r in grid:
