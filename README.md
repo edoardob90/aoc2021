@@ -8,7 +8,7 @@ As the inputs are different for each user, use the `input.txt` files in each day
 
 ## Languages used
 
-I will attempt to write a solution in **at least two** out of the three following languages:
+I will attempt to write a solution in **at least two** of the three following languages:
 
 1. **Python** — because... well, it's 🐍
 2. **C** — it's supported almost everywhere, plus a low-level language lets you build everything from the very bottom, so you really have to understand what you are doing
@@ -29,7 +29,7 @@ Solved | Problem | P | WL | C
 :star: :star: | 2: Dive! ([puzzle text](https://adventofcode.com/2021/day/2)) | :heavy_check_mark: | :heavy_check_mark: |
 :star: :star: | 3: Binary Diagnostic ([puzzle text](https://adventofcode.com/2021/day/3)) | :heavy_check_mark: | |
 :star: :star: | 4: Giant Squid ([puzzle text](https://adventofcode.com/2021/day/4)) | :heavy_check_mark: | | 
-:star: :star: | 5: Hydrothermal Venture ([puzzle text](https://adventofcode.com/2021/day/5)) | :heavy_check_mark: | | 
+:star: :star: | 5: Hydrothermal Venture ([puzzle text](https://adventofcode.com/2021/day/5)) | :heavy_check_mark: | :heavy_check_mark: | 
 .. | 6: Lanternfish ([puzzle text](https://adventofcode.com/2021/day/6)) | | | 
 .. | 7: The Treachery of Whales ([puzzle text](https://adventofcode.com/2021/day/7)) | | |
 .. | 8: Seven Segment Search ([puzzle text](https://adventofcode.com/2021/day/8)) | | | 
