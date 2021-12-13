@@ -36,3 +36,5 @@ Solved | Problem | P | WL | C
 .. | 9: Smoke Basin ([puzzle text](https://adventofcode.com/2021/day/9)) | | | 
 .. | 10: Syntax Scoring ([puzzle text](https://adventofcode.com/2021/day/10)) | | |
 .. | 11: Dumbo Octopus ([puzzle text](https://adventofcode.com/2021/day/11)) | | |
+.. | 12: Passage Pathing ([puzzle text](https://adventofcode.com/2021/day/12)) | | |
+.. | 13: Transparent Origami ([puzzle text](https://adventofcode.com/2021/day/13)) | | |
