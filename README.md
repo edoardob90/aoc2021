@@ -26,7 +26,7 @@ For reference, here's an up-to-date list with the links to my blog entries where
 Solved | Problem | P | WL | C 
 --- | --- | --- | --- | ---
 :star: :star: | 1: [Sonar sweep](https://blog.edobld.me/day-1-sonar-sweep) ([puzzle text](https://adventofcode.com/2021/day/1)) | :heavy_check_mark: | :heavy_check_mark: |
-:star: :star: | 2: Dive! ([puzzle text](https://adventofcode.com/2021/day/2)) | :heavy_check_mark: | :heavy_check_mark: |
+:star: :star: | 2: [Dive!](https://blog.edobld.me/day-2-dive) ([puzzle text](https://adventofcode.com/2021/day/2)) | :heavy_check_mark: | :heavy_check_mark: |
 :star: :star: | 3: Binary Diagnostic ([puzzle text](https://adventofcode.com/2021/day/3)) | :heavy_check_mark: | |
 :star: :star: | 4: Giant Squid ([puzzle text](https://adventofcode.com/2021/day/4)) | :heavy_check_mark: | | 
 :star: :star: | 5: [Hydrothermal Venture](https://blog.edobld.me/day-5-hydrothermal-venture) ([puzzle text](https://adventofcode.com/2021/day/5)) | :heavy_check_mark: | :heavy_check_mark: | 
