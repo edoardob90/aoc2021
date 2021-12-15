@@ -1,0 +1,13 @@
+name: GitHub Actions Demo
+on:
+  schedule:
+    - cron: '20 22 * * *'
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run shell script
+        run: ./.github/scripts/update_calendar.sh
+        shell: bash
+      - run: echo "🍏 This job's status is ${{ job.status }}."
+
