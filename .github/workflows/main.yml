@@ -1,13 +1,18 @@
 name: Update calendar on README
 on:
   schedule:
-    - cron: '27 21 * * *'
+    - cron: '1/6 21 * * *'
+  workflow_dispatch:
+    
 jobs:
   update-calendar:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+      
       - name: Run shell script
         run: ./.github/scripts/update_calendar.sh
         shell: bash
+        
       - run: echo "🍏 This job's status is ${{ job.status }}."
 
