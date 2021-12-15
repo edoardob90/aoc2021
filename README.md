@@ -30,7 +30,7 @@ Solved | Problem | P | WL | C
 :star: :star: | 3: Binary Diagnostic ([puzzle text](https://adventofcode.com/2021/day/3)) | :heavy_check_mark: | |
 :star: :star: | 4: Giant Squid ([puzzle text](https://adventofcode.com/2021/day/4)) | :heavy_check_mark: | | 
 :star: :star: | 5: [Hydrothermal Venture](https://blog.edobld.me/day-5-hydrothermal-venture) ([puzzle text](https://adventofcode.com/2021/day/5)) | :heavy_check_mark: | :heavy_check_mark: | 
-.. | 6: Lanternfish ([puzzle text](https://adventofcode.com/2021/day/6)) | | | 
+:star: :star: | 6: Lanternfish ([puzzle text](https://adventofcode.com/2021/day/6)) | :heavy_check_mark: | :heavy_check_mark: | 
 .. | 7: The Treachery of Whales ([puzzle text](https://adventofcode.com/2021/day/7)) | | |
 .. | 8: Seven Segment Search ([puzzle text](https://adventofcode.com/2021/day/8)) | | | 
 .. | 9: Smoke Basin ([puzzle text](https://adventofcode.com/2021/day/9)) | | | 
