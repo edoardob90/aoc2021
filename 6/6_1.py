@@ -2,7 +2,7 @@ import sys
 
 fishes = [int(x) for x in sys.stdin.readline().strip().split(',')]
 
-# outfile = open('evolution.txt','w')
+outfile = open('evolution.txt','w')
 
 try:
     days = int(sys.argv[1])
@@ -22,8 +22,8 @@ def update():
 
 for d in range(days):
     update()
-    # outfile.write(f"{d} {len(fishes)}\n")
+    outfile.write(f"{d} {len(fishes)}\n")
 
 print(f"Total fishes after {days} days: {len(fishes)}")
 
-# outfile.close()
+outfile.close()
