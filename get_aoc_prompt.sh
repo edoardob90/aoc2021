@@ -36,5 +36,6 @@ if [[ -f "$DIR/.cookie" ]]; then
     if ! type $(which curl) 2>&1 >/dev/null; then
         echo "curl not found!" >&2
         exit 1
-    curl "https://adventofcode.com/${2:-2021}/day/$1/input" --cookie "session=$(cat ${DIR}/.cookie)" > ${DEST}/input.txt
+    fi
+    curl -s "https://adventofcode.com/${2:-2021}/day/$1/input" --cookie "session=$(cat ${DIR}/.cookie)" > ${DEST}/input.txt
 fi
