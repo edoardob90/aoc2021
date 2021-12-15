@@ -1,7 +1,7 @@
-name: GitHub Actions Demo
+name: Update calendar on README
 on:
   schedule:
-    - cron: '20 22 * * *'
+    - cron: '27 21 * * *'
 jobs:
   update-calendar:
     runs-on: ubuntu-latest
