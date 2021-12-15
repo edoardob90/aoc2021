@@ -38,3 +38,5 @@ Solved | Problem | P | WL | C
 .. | 11: Dumbo Octopus ([puzzle text](https://adventofcode.com/2021/day/11)) | | |
 .. | 12: Passage Pathing ([puzzle text](https://adventofcode.com/2021/day/12)) | | |
 .. | 13: Transparent Origami ([puzzle text](https://adventofcode.com/2021/day/13)) | | |
+.. | 14: Extended Polymerization ([puzzle text](https://adventofcode.com/2021/day/14)) | | |
+.. | 15: Chiton ([puzzle text](https://adventofcode.com/2021/day/15)) | | |
