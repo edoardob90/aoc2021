@@ -40,3 +40,4 @@ Solved | Problem | P | WL | C
 .. | 13: Transparent Origami ([puzzle text](https://adventofcode.com/2021/day/13)) | | |
 .. | 14: Extended Polymerization ([puzzle text](https://adventofcode.com/2021/day/14)) | | |
 .. | 15: Chiton ([puzzle text](https://adventofcode.com/2021/day/15)) | | |
+.. | 16: Packet Decoder ([puzzle text](https://adventofcode.com/2021/day/16)) | | |
