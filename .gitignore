@@ -4,3 +4,8 @@
 ascii_progress.py
 .cookie
 test*
+.DS_Store
+*png
+*jpeg
+*jpg
+*pdf
