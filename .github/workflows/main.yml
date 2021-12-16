@@ -1,18 +1,35 @@
-name: Update calendar on README
+name: Update Advent of Code calendar
+
 on:
   schedule:
-    - cron: '1/6 21 * * *'
+    - cron: '11 05 * * *'
   workflow_dispatch:
-    
+
 jobs:
-  update-calendar:
+  update_calendar:
+    name: Update calendar
     runs-on: ubuntu-latest
     steps:
+      - name: Get current day
+        run: echo "day=$(date +%d)" >> $GITHUB_ENV
+
       - uses: actions/checkout@v2
-      
-      - name: Run shell script
-        run: bash ./.github/scripts/update_calendar.sh
+
+      - name: Pandoc convert action step
+        id: pandoc
+        uses: edoardob90/pandoc-docker-action@v3
+        with:
+          dest: 'README.md'
+
+      - name: Update README shell script
+        run: ./.github/scripts/update_calendar.sh
         shell: bash
-        
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+
+      - name: Push to repo
+        run: |
+          git config --global user.name "Edoardo Baldi"
+          git config --global user.email "edoardob90@gmail"
+          git add -A
+          git commit -m "Update calendar (day ${{ env.day }})"
+          git push
 
