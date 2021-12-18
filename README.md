@@ -42,3 +42,4 @@ Solved | Problem | P | WL | C
 .. | 15: Chiton ([puzzle text](https://adventofcode.com/2021/day/15)) | | |
 .. | 16: Packet Decoder ([puzzle text](https://adventofcode.com/2021/day/16)) | | |
 .. | 17: Trick Shot ([puzzle text](https://adventofcode.com/2021/day/17)) | | |
+.. | 18: Snailfish ([puzzle text](https://adventofcode.com/2021/day/18)) | | |
