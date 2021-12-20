@@ -27,7 +27,7 @@ jobs:
 
       - name: Push to repo
         run: |
-          git config --global user.name "Edoardo Baldi"
+          git config --global user.name "edoardob90"
           git config --global user.email "edoardob90@gmail"
           git add -A
           git commit -m "Update calendar (day ${{ env.day }})"
