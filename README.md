@@ -46,3 +46,4 @@ Solved | Problem | P | WL | C
 .. | 19: Beacon Scanner ([puzzle text](https://adventofcode.com/2021/day/19)) | | |
 .. | 20: Trench Map ([puzzle text](https://adventofcode.com/2021/day/20)) | | |
 .. | 21: Dirac Dice ([puzzle text](https://adventofcode.com/2021/day/21)) | | |
+.. | 22: Reactor Reboot ([puzzle text](https://adventofcode.com/2021/day/22)) | | |
