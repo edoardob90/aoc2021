@@ -47,3 +47,4 @@ Solved | Problem | P | WL | C
 .. | 20: Trench Map ([puzzle text](https://adventofcode.com/2021/day/20)) | | |
 .. | 21: Dirac Dice ([puzzle text](https://adventofcode.com/2021/day/21)) | | |
 .. | 22: Reactor Reboot ([puzzle text](https://adventofcode.com/2021/day/22)) | | |
+.. | 23: Amphipod ([puzzle text](https://adventofcode.com/2021/day/23)) | | |
