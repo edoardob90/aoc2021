@@ -49,3 +49,4 @@ Solved | Problem | P | WL | C
 .. | 22: Reactor Reboot ([puzzle text](https://adventofcode.com/2021/day/22)) | | |
 .. | 23: Amphipod ([puzzle text](https://adventofcode.com/2021/day/23)) | | |
 .. | 24: Arithmetic Logic Unit ([puzzle text](https://adventofcode.com/2021/day/24)) | | |
+.. | 25: Sea Cucumber ([puzzle text](https://adventofcode.com/2021/day/25)) | | |
