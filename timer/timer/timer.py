@@ -21,7 +21,7 @@ class Timer:
     _start_time: Optional[float] = field(default=None, init=False, repr=False)
 
 
-    def __post_init(self) -> None:
+    def __post_init__(self) -> None:
         """Add timer to dict of timers"""
         if self.name is not None:
             self.timers.setdefault(self.name, 0)
