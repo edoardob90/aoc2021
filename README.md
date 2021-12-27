@@ -31,7 +31,7 @@ Solved | Problem | P | WL | C
 :star: :star: | 4: Giant Squid ([puzzle text](https://adventofcode.com/2021/day/4)) | :heavy_check_mark: | | 
 :star: :star: | 5: [Hydrothermal Venture](https://blog.edobld.me/day-5-hydrothermal-venture) ([puzzle text](https://adventofcode.com/2021/day/5)) | :heavy_check_mark: | :heavy_check_mark: | 
 :star: :star: | 6: Lanternfish ([puzzle text](https://adventofcode.com/2021/day/6)) | :heavy_check_mark: | :heavy_check_mark: | 
-.. | 7: The Treachery of Whales ([puzzle text](https://adventofcode.com/2021/day/7)) | | |
+:star: :star: | 7: The Treachery of Whales ([puzzle text](https://adventofcode.com/2021/day/7)) | :heavy_check_mark: | |
 .. | 8: Seven Segment Search ([puzzle text](https://adventofcode.com/2021/day/8)) | | | 
 .. | 9: Smoke Basin ([puzzle text](https://adventofcode.com/2021/day/9)) | | | 
 .. | 10: Syntax Scoring ([puzzle text](https://adventofcode.com/2021/day/10)) | | |
