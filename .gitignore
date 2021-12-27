@@ -9,3 +9,6 @@ test*
 *jpeg
 *jpg
 *pdf
+build
+*.egg-info
+__pycache__
